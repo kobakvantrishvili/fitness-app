@@ -1,3 +1,4 @@
+# EvoGym Fitness App 💪
 EvoGym is a modern fitness application built with **React**, **TypeScript**, and **Tailwind CSS**.
 
 ## Tech Stack 🛠️
